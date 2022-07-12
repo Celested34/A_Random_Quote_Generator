@@ -1,2 +1,4 @@
-# A_Random_Quote_Generator
+# A Random Quote Generator
  
+I created a site that displays random famous quotes each time a button is clicked. 
+
